@@ -17,21 +17,21 @@ The second part will be providing solution to problems from the books "Problem s
      
 
 
-# TODO IN [list](#list-of-technologies)  LANGUAGES
+# TODO IN [LIST](#list-of-technologies)  LANGUAGES
 
 |                           |C	     |C++	     |C#		|JAVA		|SHELL		|PYTHON|
 |:-------------------------:|:---------:|:-------:|:-------:|:------------:|:------------:|:-------:|
-| single linked list       |		[]	|	[]	|	[]	|	[]	     |    []	     |	[]   |
-| Double linked list       |		[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |
-| queue            		  |  	[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |
-| stack			       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| priority queue	       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| hashtable		       |  	[]	|	[]	|	[]	|	[]	     | 	[]		|    []   |
-| Binary search tree       |		[]	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| Adjacency list	       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| red-Black list	       |	     []	|	[]	|	[]	|	[]	     |	[]	     |    []   |
-| B-tree			       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| generic graph	       |		[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |
+| single linked list       |		[ ]	|	[ ]	|	[ ]	|	[ ]	     |    [ ]	     |	[ ]   |
+| Double linked list       |		[ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]	     |    [ ]   |
+| queue            		  |  	[ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]	     |    [ ]   |
+| stack			       |	     [ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]		|    [ ]   |
+| priority queue	       |	     [ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]		|    [ ]   |
+| hashtable		       |  	[ ]	|	[ ]	|	[ ]	|	[ ]	     | 	[ ]		|    [ ]   |
+| Binary search tree       |		[ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]		|    [ ]   |
+| Adjacency list	       |	     { ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]		|    [ ]   |
+| red-Black list	       |	     [ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]	     |    [ ]   |
+| B-tree			       |	     [ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]		|    [ ]   |
+| generic graph	       |		[ ]	|	[ ]	|	[ ]	|	[ ]	     |	[ ]	     |    [ ]   |
 
 
 # HOW WILL THE IMPLEMENTATION LOOK LIKE?

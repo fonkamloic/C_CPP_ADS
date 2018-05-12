@@ -19,7 +19,7 @@ The second part will be providing solution to problems from the books "Problem s
 
 # TODO IN [list](#list-of-technologies)  LANGUAGES
 
-|              j            |C|	     |C++|	|C#|		|JAVA|		|SHELL|		|PYTHON|
+|                           |C	     |C++	     |C#		|JAVA		|SHELL		|PYTHON|
 |:-------------------------:|:---------:|:-------:|:-------:|:------------:|:------------:|:-------:|
 | single linked list       |		[]	|	[]	|	[]	|	[]	     |    []	     |	[]   |
 | Double linked list       |		[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |

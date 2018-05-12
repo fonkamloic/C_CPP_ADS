@@ -21,8 +21,8 @@ The second part will be providing solution to problems from the books "Problem s
 
  #				     C		C++		C#		JAVA		SHELL		PYTHON
 
- single linked list		[]		[]		[]		[]		[]		     []
- Double linked list		[]		[]		[]		[]		[]	     	[]
+# single linked list		[]		[]		[]		[]		[]		     []
+# Double linked list		[]		[]		[]		[]		[]	     	[]
  queue				[]		[]		[]		[]		[]	     	[]
  stack				[]		[]		[]		[]		[]		     []
  priority queue		[]		[]		[]		[]		[]		     []

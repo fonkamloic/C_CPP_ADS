@@ -18,7 +18,8 @@ The second part will be providing solution to problems from the books "Problem s
 
 
 # TODO IN [list](#list-of-technologies)  LANGUAGES
-|                           |C|	     |C++|	|C#|		|JAVA|		|SHELL|		|PYTHON|
+
+|              j            |C|	     |C++|	|C#|		|JAVA|		|SHELL|		|PYTHON|
 |:-------------------------:|:---------:|:-------:|:-------:|:------------:|:------------:|:-------:|
 | single linked list       |		[]	|	[]	|	[]	|	[]	     |    []	     |	[]   |
 | Double linked list       |		[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |
@@ -30,7 +31,7 @@ The second part will be providing solution to problems from the books "Problem s
 | Adjacency list	       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
 | red-Black list	       |	     []	|	[]	|	[]	|	[]	     |	[]	     |    []   |
 | B-tree			       |	     []	|	[]	|	[]	|	[]	     |	[]		|    []   |
-| generic graph	       |		[]	|	[]	|	[]	|	[]	     |	[]	     |     []  |
+| generic graph	       |		[]	|	[]	|	[]	|	[]	     |	[]	     |    []   |
 
 
 # HOW WILL THE IMPLEMENTATION LOOK LIKE?
